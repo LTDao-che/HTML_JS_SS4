@@ -2,7 +2,7 @@
 //Câu 1:
 console.log(`--- CÂU 1 ---`);
 
-let n = -10;
+let n = 50;
 //NV1
 if (n % 2 === 0) {
     console.log(`Số ${n} là số chẵn`);
